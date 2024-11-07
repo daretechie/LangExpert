@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000'; // Ensure this matches your backend server
+const API_BASE_URL = 'http://localhost:5000'; // 
 
 const chatWindow = document.getElementById('chat-window');
 const sendButton = document.getElementById('send-button');
